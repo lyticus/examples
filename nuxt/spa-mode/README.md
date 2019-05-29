@@ -1,5 +1,7 @@
 # Nuxt: SPA mode
 
+Lyticus Nuxt SPA mode example
+
 ## Scripts
 
 ``` bash
