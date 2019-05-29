@@ -1,0 +1,13 @@
+{
+  "name": "lyticus-example-vuepress-v-1",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "lyticus": "^1.0.24"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.48"
+  }
+}
