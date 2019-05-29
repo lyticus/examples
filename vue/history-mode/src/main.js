@@ -6,7 +6,7 @@ import Lyticus from "lyticus";
 
 // Create Lyticus instance
 const lyticus = new Lyticus("your-website-id", {
-  development: false && process.env.NODE_ENV === "development",
+  development: process.env.NODE_ENV === "development",
   // Optional: use route name instead of path
   getPath: () => {
     const route = router.currentRoute;
