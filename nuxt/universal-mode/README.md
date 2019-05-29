@@ -1,5 +1,7 @@
 # Nuxt: universal mode
 
+Lyticus Nuxt universal mode example
+
 ## Scripts
 
 ``` bash
