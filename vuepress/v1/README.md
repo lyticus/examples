@@ -1,5 +1,7 @@
 # VuePress: v1
 
+Lyticus VuePress v1 example
+
 ``` bash
 # install dependencies
 $ npm install
