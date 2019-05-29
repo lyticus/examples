@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "cross-env": "^5.2.0",
-    "lyticus": "^1.0.24",
+    "lyticus": "^1.0.25",
     "nuxt": "^2.4.0"
   },
   "devDependencies": {
