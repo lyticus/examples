@@ -8,7 +8,7 @@ import Lyticus from "lyticus";
 export class LyticusService {
   lyticus;
 
-  constructor() {
+  init() {
     // Create Lyticus instance
     this.lyticus = new Lyticus("your-website-id");
     // Track the navigator

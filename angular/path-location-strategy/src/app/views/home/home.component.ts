@@ -19,8 +19,13 @@ import { LyticusService } from "../../lyticus.service";
   `
 })
 export class HomeViewComponent {
+  constructor() {
+    
+  }
+  /*
   constructor(private lyticus: LyticusService) {}
   onClick() {
     this.lyticus.trackClick("yellow-button");
   }
+  */
 }
