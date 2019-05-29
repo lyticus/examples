@@ -1,5 +1,7 @@
 # Vue: History Mode
 
+Lyticus Vue global history mode example
+
 - Router mode: history
 - Page view tracking: history mode
 
