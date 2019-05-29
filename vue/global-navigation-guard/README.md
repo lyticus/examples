@@ -1,5 +1,7 @@
 # Vue: global navigation guard
 
+Lyticus Vue global navigation guard example
+
 - Router mode: hash
 - Page view tracking: global navigation guard
 
