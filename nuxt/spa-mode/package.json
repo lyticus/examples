@@ -1,9 +1,14 @@
 {
   "name": "lyticus-example-nuxt-spa-mode",
   "version": "1.0.0",
-  "description": "Nuxt: SPA mode",
-  "author": "Bjorn Krols",
-  "private": true,
+  "description": "Lyticus Nuxt SPA mode example",
+  "author": "Bjorn Krols (https://byteboomers.com)",
+  "keywords": [
+    "analytics",
+    "lyticus",
+    "nuxt",
+    "vue"
+  ],
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

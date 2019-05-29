@@ -1,8 +1,14 @@
 {
   "name": "lyticus-example-nuxt-universal-mode",
   "version": "1.0.0",
-  "description": "Nuxt: universal mode",
-  "author": "Bjorn Krols",
+  "description": "Lyticus Nuxt universal mode example",
+  "author": "Bjorn Krols (https://byteboomers.com)",
+  "keywords": [
+    "analytics",
+    "lyticus",
+    "nuxt",
+    "vue"
+  ],
   "private": true,
   "scripts": {
     "dev": "nuxt",

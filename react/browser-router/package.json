@@ -1,17 +1,23 @@
 {
   "name": "lyticus-example-react-browser-router",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "Lyticus React browser router example",
+  "author": "Bjorn Krols (https://byteboomers.com)",
+  "keywords": [
+    "analytics",
+    "lyticus",
+    "react"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
   "dependencies": {
     "lyticus": "^1.0.25",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"
