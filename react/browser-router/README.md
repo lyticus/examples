@@ -1,5 +1,7 @@
 # React: browser router
 
+Lyticus React browser router example
+
 ## Scripts
 
 ``` bash
