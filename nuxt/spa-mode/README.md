@@ -1,6 +1,4 @@
-# spa-mode
-
-> My mind-blowing Nuxt.js project
+# Nuxt: SPA mode
 
 ## Build Setup
 
