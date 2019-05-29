@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "lyticus": "^1.0.24",
+    "lyticus": "^1.0.25",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3"
   },
