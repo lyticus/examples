@@ -11,8 +11,5 @@ export default {
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]
   },
-  plugins: ['~/plugins/lyticus.js'],
-  router: {
-    middleware: ["lyticus"]
-  }
+  plugins: [{ src: "~/plugins/lyticus.js", mode: "client" }]
 };
