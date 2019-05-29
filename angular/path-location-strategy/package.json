@@ -1,15 +1,17 @@
 {
-  "name": "path-location-strategy",
-  "version": "0.0.0",
+  "name": "lyticus-example-angular-path-location-strategy",
+  "version": "1.0.0",
+  "description": "Lyticus Angular path location strategy example",
+  "author": "Bjorn Krols (https://byteboomers.com)",
+  "keywords": [
+    "analytics",
+    "angular",
+    "lyticus"
+  ],
   "scripts": {
-    "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
+    "build": "ng build --prod"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "~8.0.0",
     "@angular/common": "~8.0.0",

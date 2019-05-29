@@ -1,11 +1,16 @@
-# PathLocationStrategy
+# Angular path location strategy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0.
+Lyticus Angular path location strategy example
 
-## Development server
+## Scripts
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+```bash
+# install dependencies
+$ npm install
 
-## Build
+# serve with hot reload at localhost:4200
+$ npm run start
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+# build for production
+$ npm run build
+```
