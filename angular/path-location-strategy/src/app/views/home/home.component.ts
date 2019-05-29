@@ -1,4 +1,5 @@
 import { Component } from "@angular/core";
+import { LyticusService } from "../../lyticus.service";
 
 @Component({
   selector: "home",
@@ -11,13 +12,15 @@ import { Component } from "@angular/core";
         inventore blanditiis optio sit tempora atque voluptas quos. Ad, itaque
         voluptas.
       </p>
-      <button
-        click="$lyticus.trackClick('yellow-button')"
-        style="background: yellow"
-      >
+      <button (click)="onClick()" style="background: yellow">
         Yellow button
       </button>
     </div>
   `
 })
-export class HomeViewComponent {}
+export class HomeViewComponent {
+  constructor(private lyticus: LyticusService) {}
+  onClick() {
+    this.lyticus.trackClick("yellow-button");
+  }
+}
