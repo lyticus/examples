@@ -9,7 +9,6 @@
     "nuxt",
     "vue"
   ],
-  "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
