@@ -1,7 +1,8 @@
 import pkg from "./package";
 
 export default {
-  mode: "spa",
+  ssr: false,
+  target: "static",
   head: {
     title: pkg.name,
     meta: [
