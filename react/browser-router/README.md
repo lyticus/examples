@@ -4,7 +4,7 @@ Lyticus React browser router example
 
 ## Scripts
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 

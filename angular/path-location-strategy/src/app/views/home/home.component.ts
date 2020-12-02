@@ -16,7 +16,7 @@ import { LyticusService } from "../../lyticus.service";
         Yellow button
       </button>
     </div>
-  `
+  `,
 })
 export class HomeViewComponent {
   constructor(private lyticus: LyticusService) {}

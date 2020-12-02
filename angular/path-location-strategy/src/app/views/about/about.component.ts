@@ -12,11 +12,9 @@ import { LyticusService } from "../../lyticus.service";
         inventore blanditiis optio sit tempora atque voluptas quos. Ad, itaque
         voluptas.
       </p>
-      <button (click)="onClick()" style="background: cyan">
-        Cyan button
-      </button>
+      <button (click)="onClick()" style="background: cyan">Cyan button</button>
     </div>
-  `
+  `,
 })
 export class AboutViewComponent {
   constructor(private lyticus: LyticusService) {}

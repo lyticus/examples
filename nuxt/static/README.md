@@ -4,7 +4,7 @@ Lyticus Nuxt static example
 
 ## Scripts
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 

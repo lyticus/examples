@@ -13,7 +13,7 @@ import { Component } from "@angular/core";
       <router-outlet></router-outlet>
     </div>
   `,
-  styles: []
+  styles: [],
 })
 export class AppComponent {
   title = "path-location-strategy";

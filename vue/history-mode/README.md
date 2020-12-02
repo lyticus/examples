@@ -7,7 +7,7 @@ Lyticus Vue global history mode example
 
 ## Scripts
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 

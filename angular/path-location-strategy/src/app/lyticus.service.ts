@@ -3,7 +3,7 @@ import { Injectable } from "@angular/core";
 import Lyticus from "lyticus";
 
 @Injectable({
-  providedIn: "root"
+  providedIn: "root",
 })
 export class LyticusService {
   lyticus;

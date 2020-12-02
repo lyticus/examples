@@ -7,7 +7,7 @@ Lyticus Vue global navigation guard example
 
 ## Scripts
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 

@@ -14,7 +14,7 @@ const lyticus = new Lyticus("your-website-id", {
       return window.location.pathname;
     }
     return route.name;
-  }
+  },
 });
 
 // Track the navigator
@@ -35,5 +35,5 @@ Vue.config.productionTip = false;
 
 new Vue({
   router,
-  render: h => h(App)
+  render: (h) => h(App),
 }).$mount("#app");

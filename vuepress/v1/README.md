@@ -2,7 +2,7 @@
 
 Lyticus VuePress v1 example
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 

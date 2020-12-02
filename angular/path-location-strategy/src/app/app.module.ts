@@ -10,7 +10,7 @@ import { LyticusService } from "./lyticus.service";
   declarations: [AppComponent],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
 export class AppModule {
   constructor(private lyticus: LyticusService) {
