@@ -1,4 +1,6 @@
+.eslintcache
 .idea
 .nuxt
+build
 dist
 node_modules

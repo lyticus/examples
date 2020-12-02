@@ -13,11 +13,11 @@
     "build": "react-scripts build"
   },
   "dependencies": {
-    "lyticus": "^1.0.25",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-router-dom": "^5.0.0",
-    "react-scripts": "3.0.1"
+    "lyticus": "^1.0.39",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1"
   },
   "eslintConfig": {
     "extends": "react-app"
