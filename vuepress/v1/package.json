@@ -14,9 +14,9 @@
     "build": "vuepress build docs"
   },
   "dependencies": {
-    "lyticus": "^1.0.24"
+    "lyticus": "^1.0.39"
   },
   "devDependencies": {
-    "vuepress": "^1.0.0-alpha.48"
+    "vuepress": "^1.7.1"
   }
 }

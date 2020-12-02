@@ -7,7 +7,7 @@ Lyticus VuePress v1 example
 $ npm install
 
 # serve with hot reload at localhost:8080
-$ npm dev serve
+$ npm run dev
 
 # build for production
 $ npm run build
