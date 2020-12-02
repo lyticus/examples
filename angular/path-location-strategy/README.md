@@ -1,4 +1,4 @@
-# Angular path location strategy
+# Angular: path location strategy
 
 Lyticus Angular path location strategy example
 

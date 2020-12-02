@@ -1,7 +1,7 @@
 {
-  "name": "lyticus-example-nuxt-spa-mode",
+  "name": "lyticus-example-nuxt-static",
   "version": "1.0.0",
-  "description": "Lyticus Nuxt SPA mode example",
+  "description": "Lyticus Nuxt static example",
   "author": "Bjorn Krols (https://byteboomers.com)",
   "keywords": [
     "analytics",

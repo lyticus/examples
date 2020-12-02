@@ -1,6 +1,6 @@
-# Nuxt: SPA mode
+# Nuxt: static
 
-Lyticus Nuxt SPA mode example
+Lyticus Nuxt static example
 
 ## Scripts
 
