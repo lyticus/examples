@@ -6,6 +6,6 @@
     <div>
       <nuxt-link to="/about">About</nuxt-link>
     </div>
-    <nuxt/>
+    <nuxt />
   </div>
 </template>
