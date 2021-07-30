@@ -9,7 +9,7 @@ Lyticus Angular path location strategy example
 $ npm install
 
 # serve with hot reload at localhost:4200
-$ npm run start
+$ npm run serve
 
 # build for production
 $ npm run build
